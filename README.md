@@ -1,1 +1,1 @@
-excluir 
+delete
